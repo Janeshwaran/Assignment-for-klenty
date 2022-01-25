@@ -1,0 +1,119 @@
+.nav-item {
+  padding-right: 2em;
+}
+.title {
+  font-family: "Paytone One", sans-serif;
+  color: #05034e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 48.83px;
+  line-height: 68px;
+  padding-top: 8rem;
+}
+
+.subtitle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: Open Sans;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 27px;
+  color: #202020;
+  padding-top: 24px;
+}
+.btn2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 56px;
+  padding-bottom: 96px;
+}
+.heading {
+  font-family: Open Sans;
+  font-size: 20px;
+  color: #05034e;
+}
+
+.img1 {
+  padding-left: 10rem;
+}
+.row {
+  padding-bottom: 10rem;
+}
+.carousel-bg {
+  background-color: rgba(242, 242, 253, 1);
+  height: 80vh;
+}
+
+.heading3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 6rem;
+  font-family: "Paytone One", sans-serif;
+  color: #05034e;
+  padding-bottom: 3rem;
+}
+
+.carousel-content {
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: 12px 12px 30px 0px rgba(0, 0, 0, 0.08);
+  width: 907px;
+  height: 450px;
+  left: 267px;
+  top: 1041px;
+}
+
+.carousel-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 60rem;
+  height: 30rem;
+}
+
+.company-img {
+  padding-top: 4rem;
+  padding-left: 10rem;
+}
+
+.quote-start,
+.quote-end {
+  margin-left: 150px;
+  padding-top: 4rem;
+}
+
+.carousel-text {
+  font-family: Open Sans;
+  font-size: 20px;
+  line-height: 27px;
+  text-align: center;
+  color: #202020;
+  width: 614px;
+  height: 132px;
+  margin-left: 150px;
+  margin-top: 60px;
+}
+
+.name-img {
+  margin-left: 17rem;
+  padding-top: 20px;
+}
+
+.name {
+    font-family: Open Sans;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -65px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.role{
+    font-family: Open Sans;
+}
